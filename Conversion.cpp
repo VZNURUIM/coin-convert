@@ -28,4 +28,6 @@ int main() {
 
 		cout << "\nResponse: " << real_to_dollar_formula << " Dollars";
 	}
+
+	return 0;
 }

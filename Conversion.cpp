@@ -28,6 +28,7 @@ int main() {
 
 		cout << "\nResponse: " << real_to_dollar_formula << " Dollars";
 	}
-
+	cout << "\n\n\n\n";
+	system("PAUSE");
 	return 0;
 }
